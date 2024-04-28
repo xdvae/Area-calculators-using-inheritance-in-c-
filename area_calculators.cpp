@@ -1,4 +1,4 @@
-//THis is a program for calculating area.s of diffrent shapes using multi-level inheritanse.
+//This is a program for calculating area.s of diffrent shapes using multi-level inheritanse.
 
 #include<iostream>
 #include<math.h>
